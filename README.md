@@ -4,6 +4,10 @@ Run elixir tests in vim.
 
 ![vimux-elixir](http://g.recordit.co/vN3WbmrCkL.gif)
 
+## Dependencies
+
+* [vimux](https://github.com/benmills/vimux)
+
 ## Installation
 
 If you use Vundle add this line to your `.vimrc` file:
